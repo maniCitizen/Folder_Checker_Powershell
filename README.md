@@ -1,2 +1,2 @@
 # Folder_Checker_Powershell
-A Powershell Script to check if a Folder/File exits
+A Powershell Script to check if a Folder/File exists
